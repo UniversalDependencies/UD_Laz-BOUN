@@ -24,23 +24,23 @@
 3	.	.	PUNCT	Punc	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_5
-# text = Alik Ayşes svara mec’u
+# text = Alik Ayşes svara mecʼu
 1	Alik	Ali	PROPN	Prop	Case=Gen|Number=Sing|Person=3	4	nsubj	_	Trans=Ali
 2	Ayşes	Ayşe	PROPN	Prop	Case=Dat|Number=Sing|Person=3	4	iobj	_	Trans=to Ayşe
 3	svara	svara	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	obj	_	Trans=the book
-4	mec’u	c’	VERB	Verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Trans=gave
+4	mecʼu	cʼ	VERB	Verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Trans=gave
 
 # sent_id = be-thesis_6
-# text = K’očik svara čarums.
-1	K’očik	K’oči	NOUN	Noun	Case=Erg|Number=Sing|Person=3	3	nsubj	_	Trans=the man
+# text = Kʼočik svara čarums.
+1	Kʼočik	Kʼoči	NOUN	Noun	Case=Erg|Number=Sing|Person=3	3	nsubj	_	Trans=the man
 2	svara	svara	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	obj	_	Trans=book
 3	čarums	čar	VERB	Verb	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Trans=is writing
 4	.	.	PUNCT	Punc	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_7
-# text = K’oči c’olu.
-1	K’oči	K’oči	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	nsubj	_	_
-2	c’olu	c’ol	VERB	Verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+# text = Kʼoči cʼolu.
+1	Kʼoči	Kʼoči	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	nsubj	_	_
+2	cʼolu	cʼol	VERB	Verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	Punc	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_8
@@ -50,14 +50,14 @@
 3	.	.	PUNCT	Punc	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_9
-# text = Artes Ayşe eugit’inu
+# text = Artes Ayşe eugitʼinu
 1	Artes	Arte	PROPN	Prop	Case=Dat|Number=Sing|Person=3	3	nsubj	_	_
 2	Ayşe	Ayşe	PROPN	Prop	Case=Nom|Number=Sing|Person=3	3	obj	_	_
-3	eugit’inu	eugit’in	VERB	Verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n
+3	eugitʼinu	eugitʼin	VERB	Verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_10
-# text = K’očik çitabi čarums.
-1	K’očik	K’oči	NOUN	Noun	Case=Erg|Number=Sing|Person=3	3	nsubj	_	_
+# text = Kʼočik çitabi čarums.
+1	Kʼočik	Kʼoči	NOUN	Noun	Case=Erg|Number=Sing|Person=3	3	nsubj	_	_
 2	çitabi	çitabi	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	nmod	_	_
 3	čarums	čar	VERB	Noun	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Punc	_	3	punct	_	SpacesAfter=\n
@@ -88,9 +88,9 @@
 3	umbağ	mbağ	VERB	Noun	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_15
-# text = Si c’oli.
+# text = Si cʼoli.
 1	Si	si	PRON	Noun	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	_
-2	c’oli	c’ol	VERB	Verb	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	cʼoli	cʼol	VERB	Verb	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	Punc	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_16
@@ -100,15 +100,15 @@
 3	.	.	PUNCT	Punc	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_17
-# text = Bere c’olu.
+# text = Bere cʼolu.
 1	Bere	Bere	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	nsubj	_	_
-2	c’olu	c’ol	VERB	Verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	cʼolu	cʼol	VERB	Verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	Punc	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_18
-# text = Berek t’axas
+# text = Berek tʼaxas
 1	Berek	Bere	NOUN	Prop	Case=Erg|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	t’axas	t’ax	VERB	Noun	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	tʼaxas	tʼax	VERB	Noun	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 
 # sent_id = be-thesis_19
 # text = ški si gimbağt.
@@ -118,16 +118,16 @@
 4	.	.	PUNCT	Punc	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_20
-# text = ma t’kva gimbağt.
+# text = ma tʼkva gimbağt.
 1	ma	ma	PRON	Noun	_	3	nsubj	_	_
-2	t’kva	t’kva	PRON	Noun	_	3	obj	_	_
+2	tʼkva	tʼkva	PRON	Noun	_	3	obj	_	_
 3	gimbağt	mbağ	VERB	Verb	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Punc	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_21
-# text = ški t’kva gimbağt
+# text = ški tʼkva gimbağt
 1	ški	ški	PRON	Noun	_	3	nsubj	_	_
-2	t’kva	t’kva	PRON	Noun	_	3	obj	_	_
+2	tʼkva	tʼkva	PRON	Noun	_	3	obj	_	_
 3	gimbağt	mbağ	VERB	Verb	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_22
@@ -137,9 +137,9 @@
 3	mimbağan	mbağ	VERB	Noun	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_23
-# text = Himuk tk’va gimbağan
+# text = Himuk tkʼva gimbağan
 1	Himuk	Himuk	PRON	Pronoun	_	3	nsubj	_	_
-2	tk’va	tk’va	PRON	Pronoun	_	3	obj	_	_
+2	tkʼva	tkʼva	PRON	Pronoun	_	3	obj	_	_
 3	gimbağan	mbağ	VERB	Verb	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_24
@@ -176,21 +176,21 @@
 3	.	.	PUNCT	Punc	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_32
-# text = Bereepe doğuru dort’u.
+# text = Bereepe doğuru dortʼu.
 1	Bereepe	Bere	NOUN	Noun	_	2	nsubj	_	_
 2	doğuru	ğur	VERB	Verb	_	0	root	_	_
-3	dort’u	r	AUX	Verb	_	2	cop	_	SpaceAfter=No
+3	dortʼu	ortʼu	AUX	Verb	_	2	cop	_	SpaceAfter=No
 4	.	.	PUNCT	Punc	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_33
-# text = Ma vok’apu
+# text = Ma vokʼapu
 1	Ma	Ma	PRON	prnoun	_	2	nsubj	_	_
-2	vok’apu	k’ap	VERB	Verb	_	0	root	_	SpacesAfter=\n
+2	vokʼapu	kʼap	VERB	Verb	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_34
-# text = Ma mok’apun
+# text = Ma mokʼapun
 1	Ma	Ma	PRON	pron	_	2	nsubj	_	_
-2	mok’apun	k’ap	VERB	Verb	_	0	root	_	SpacesAfter=\n
+2	mokʼapun	kʼap	VERB	Verb	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_35
 # text = Ma si mağropi.
@@ -200,17 +200,17 @@
 4	.	.	PUNCT	Punc	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_36
-# text = Amedik muya c’aru
+# text = Amedik muya cʼaru
 1	Amedik	Amedi	PROPN	Verb	_	3	nsubj	_	_
 2	muya	muya	PRON	Noun	_	3	obj	_	_
-3	c’aru	c’ar	VERB	PCDat	_	0	root	_	SpacesAfter=\n
+3	cʼaru	cʼar	VERB	PCDat	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_37
-# text = Ahmedik mis svara mec’u
+# text = Ahmedik mis svara mecʼu
 1	Ahmedik	Ahmedi	PROPN	Adj	_	4	nsubj	_	_
 2	mis	mi	PRON	Noun	_	4	iobj	_	_
 3	svara	svara	NOUN	Noun	_	4	obj	_	_
-4	mec’u	mec’	VERB	Noun	_	0	root	_	SpacesAfter=\n
+4	mecʼu	mecʼ	VERB	Noun	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_38
 # text = a bičis mušeni atxozi?
@@ -229,61 +229,61 @@
 5	?	?	PUNCT	Punc	_	1	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_40
-# text = Svara zerbi c’aru Amedik
+# text = Svara zerbi cʼaru Amedik
 1	Svara	Svara	NOUN	Noun	_	3	obj	_	_
 2	zerbi	zerbi	ADV	Adv	_	3	advmod	_	_
-3	c’aru	c’ar	VERB	Verb	_	0	root	_	_
+3	cʼaru	cʼar	VERB	Verb	_	0	root	_	_
 4	Amedik	Amedı	PROPN	Noun	_	3	nsubj	_	SpacesAfter=\n
 
 # sent_id = be-thesis_41
-# text = Ma Amedik svara zerbi na c’aru komişkun.
+# text = Ma Amedik svara zerbi na cʼaru komişkun.
 1	Ma	Ma	PRON	Adverb	_	7	nsubj	_	_
 2	Amedik	Amedi	PROPN	Noun	_	6	nsubj	_	_
 3	svara	svara	NOUN	Noun	_	6	obj	_	_
 4	zerbi	zerbi	ADV	Adv	_	6	advmod	_	_
 5	na	n	SCONJ	Prop	_	6	mark	_	_
-6	c’aru	c’ar	VERB	Verb	_	7	ccomp	_	_
+6	cʼaru	cʼar	VERB	Verb	_	7	ccomp	_	_
 7	komişkun	işk	VERB	Verb	_	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	Punc	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_42
-# text = badik uc’uki: domac’kindu
+# text = badik ucʼuki: domacʼkindu
 1	badik	badi	NOUN	Verb	_	2	nsubj	_	_
-2	uc’uki	uc’	VERB	Adverb	_	0	root	_	SpaceAfter=No
+2	ucʼuki	ucʼ	VERB	Adverb	_	0	root	_	SpaceAfter=No
 3	:	:	PUNCT	Punc	_	2	punct	_	_
-4	domac’kindu	c’kind	VERB	Verb	_	2	ccomp	_	SpacesAfter=\n
+4	domacʼkindu	cʼkind	VERB	Verb	_	2	ccomp	_	SpacesAfter=\n
 
 # sent_id = be-thesis_43
-# text = tilkik nek’na va gomanc’k’eya!
+# text = tilkik nekʼna va gomancʼkʼeya!
 1	tilkik	tilki	NOUN	Adj	_	4	parataxis	_	_
-2	nek’na	nek’n	NOUN	Noun	_	4	obj	_	_
+2	nekʼna	nekʼn	NOUN	Noun	_	4	obj	_	_
 3	va	va	ADV	Adverb	_	4	advmod	_	_
-4	gomanc’k’eya	gom	VERB	Noun	_	0	root	_	SpaceAfter=No
+4	gomancʼkʼeya	gom	VERB	Noun	_	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	Punc	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_44
-# text = padišağik ducoxu gyay na uxenamt’u k’očis
+# text = padišağik ducoxu gyay na uxenamtʼu kʼočis
 1	padišağik	padišaği	NOUN	Noun	_	2	nsubj	_	_
 2	ducoxu	du	VERB	Zero	_	0	root	_	_
 3	gyay	gyay	NOUN	Noun	_	5	obj	_	_
 4	na	na	SCONJ	Prop	_	5	mark	_	_
-5	uxenamt’u	uxenamt’	VERB	Noun	_	6	acl	_	_
-6	k’očis	k’oči	NOUN	Noun	_	2	obj	_	_
+5	uxenamtʼu	uxenamtʼ	VERB	Noun	_	6	acl	_	_
+6	kʼočis	kʼoči	NOUN	Noun	_	2	obj	_	_
 
 # sent_id = be-thesis_45
-# text = bee muši na t’u axelen
+# text = bee muši na tʼu axelen
 1	bee	bee	NOUN	noun	_	5	obl	_	_
 2	muši	mu	PRON	pronoun	_	1	nmod:poss	_	_
 3	na	na	SCONJ	Prop	_	1	case	_	_
-4	t’u	t’	AUX	cop	_	5	cop	_	_
+4	tʼu	ortʼu	AUX	cop	_	5	cop	_	_
 5	axelen	axel	ADJ	adv	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_46
-# text = Alişi odit’sinu odit’sinoni ort’u.
+# text = Alişi oditʼsinu oditʼsinoni ortʼu.
 1	Alişi	Ali	PROPN	Noun	_	2	nmod:poss	_	_
-2	odit’sinu	dit’sin	NOUN	Noun	_	3	nsubj	_	_
-3	odit’sinoni	odit’sinoni	ADJ	_	_	0	root	_	_
-4	ort’u	ort’u	AUX	_	_	3	cop	_	SpaceAfter=No
+2	oditʼsinu	ditʼsin	NOUN	Noun	_	3	nsubj	_	_
+3	oditʼsinoni	oditʼsinoni	ADJ	_	_	0	root	_	_
+4	ortʼu	ortʼu	AUX	_	_	3	cop	_	SpaceAfter=No
 5	.	.	PUNCT	Punc	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_47
@@ -295,40 +295,40 @@
 5	.	.	PUNCT	Punc	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_48
-# text = Ma bere bgareri domat’sonu
+# text = Ma bere bgareri domatʼsonu
 1	Ma	Ma	PRON	Noun	_	4	nsubj	_	_
 2	bere	bere	NOUN	Noun	_	3	nsubj	_	_
 3	bgareri	bgar	VERB	Noun	_	4	ccomp	_	_
-4	domat’sonu	at’son	VERB	Noun	_	0	root	_	SpacesAfter=\n
+4	domatʼsonu	atʼson	VERB	Noun	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_49
-# text = Amedik Ayşes svara mec’u
+# text = Amedik Ayşes svara mecʼu
 1	Amedik	Amedi	PROPN	Propn	_	4	nsubj	_	_
 2	Ayşes	Ayşe	PROPN	Propn	_	4	iobj	_	_
 3	svara	svara	NOUN	Noun	_	4	obj	_	_
-4	mec’u	mec’	VERB	Noun	_	0	root	_	SpacesAfter=\n
+4	mecʼu	mecʼ	VERB	Noun	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_50
-# text = mik mis svara mec’u
+# text = mik mis svara mecʼu
 1	mik	mi	PRON	Pron	Case=Erg|Number=Sing|Person=3	4	nsubj	_	_
 2	mis	mi	PRON	Pron	Case=Dat|Number=Sing|Person=3	4	iobj	_	_
 3	svara	svara	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	obj	_	_
-4	mec’u	mec’	VERB	Verb	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	SpacesAfter=\n
+4	mecʼu	mecʼ	VERB	Verb	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_51
-# text = Ayşesi Ahmedik svarağ mec’u
+# text = Ayşesi Ahmedik svarağ mecʼu
 1	Ayşesi	Ayşe	PROPN	Propn	Case=Dat|Number=Sing|Person=3	4	iobj	_	_
 2	Ahmedik	Ahmedi	PROPN	Propn	Case=Erg|Number=Sing|Person=3	4	nsubj	_	_
 3	svarağ	svara	NOUN	Noun	Case=Nom|Number=Sing	4	obj	_	_
-4	mec’u	mec’	VERB	Verb	_	0	root	_	SpacesAfter=\n
+4	mecʼu	mecʼ	VERB	Verb	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_52
-# text = Amedik Ayşes svara var mec’u.
+# text = Amedik Ayşes svara var mecʼu.
 1	Amedik	Amedi	PROPN	Propn	Case=Erg|Number=Sing|Person=3	5	nsubj	_	_
 2	Ayşes	Ayşe	PROPN	Propn	Case=Dat|Number=Sing|Person=3	5	iobj	_	_
 3	svara	svara	NOUN	Noun	Case=Nom|Number=Sing	5	obj	_	_
 4	var	var	PART	RB	_	5	advmod	_	_
-5	mec’u	mec’	VERB	Noun	_	0	root	_	SpaceAfter=No
+5	mecʼu	mecʼ	VERB	Noun	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Punct	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_53
@@ -343,35 +343,35 @@
 8	.	.	PUNCT	Punc	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_56
-# text = Amedis Ayşe ak’amandu
+# text = Amedis Ayşe akʼamandu
 1	Amedis	Amedi	PROPN	Propn	Case=Dat|Number=Sing|Person=3	3	nsubj	_	_
 2	Ayşe	Ayşe	PROPN	Propn	Case=Nom|Number=Sing|Person=3	3	obj	_	_
-3	ak’amandu	ak’amand	VERB	Verb	_	0	root	_	SpacesAfter=\n
+3	akʼamandu	akʼamand	VERB	Verb	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_57
-# text = bere c’alu
+# text = bere cʼalu
 1	bere	bere	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	nsubj	_	_
-2	c’alu	c’al	VERB	Verb	_	0	root	_	SpacesAfter=\n
+2	cʼalu	cʼal	VERB	Verb	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_58
-# text = Si mik mis svara na mec’u kogişkuni?
+# text = Si mik mis svara na mecʼu kogişkuni?
 1	Si	Si	PROPN	_	Case=Nom|Number=Sing|Person=3	7	nsubj	_	_
 2	mik	mi	PRON	_	Case=Erg|Number=Sing	6	nsubj	_	_
 3	mis	mi	PRON	_	Case=Nom|Number=Sing	6	iobj	_	_
 4	svara	svara	NOUN	Noun	Case=Nom|Number=Sing	6	obj	_	_
 5	na	na	SCONJ	_	_	6	mark	_	_
-6	mec’u	mec’	VERB	Noun	_	7	ccomp	_	_
+6	mecʼu	mecʼ	VERB	Noun	_	7	ccomp	_	_
 7	kogişkuni	kogişk	VERB	Verb	_	0	root	_	SpaceAfter=No
 8	?	?	PUNCT	Punct	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_59
-# text = Ahmedik ma Ayşes svara na mec’u komişkun.
+# text = Ahmedik ma Ayşes svara na mecʼu komişkun.
 1	Ahmedik	Ahmedi	PROPN	_	_	6	nsubj	_	_
 2	ma	ma	PRON	Pron	Case=Nom|Number=Sing|Person=1	7	nsubj	_	_
 3	Ayşes	Ayşe	PROPN	Prop	_	6	iobj	_	_
 4	svara	svara	NOUN	Noun	_	6	obj	_	_
 5	na	na	SCONJ	Prop	_	6	mark	_	_
-6	mec’u	mec’	NOUN	Noun	_	7	ccomp	_	_
+6	mecʼu	mecʼ	NOUN	Noun	_	7	ccomp	_	_
 7	komişkun	işk	VERB	Verb	_	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	Punc	_	7	punct	_	SpacesAfter=\n
 
@@ -396,45 +396,45 @@
 7	komişkun	işk	VERB	Verb	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_62
-# text = vatina aç’andinas komişk’un
+# text = vatina açʼandinas komişkʼun
 1	vatina	na	SCONJ	RB	_	2	mark	_	_
-2	aç’andinas	aç’andinas	VERB	_	_	3	ccomp	_	_
-3	komişk’un	komişk’	VERB	Verb	_	0	root	_	SpacesAfter=\n
+2	açʼandinas	açʼandinas	VERB	_	_	3	ccomp	_	_
+3	komişkʼun	komişkʼ	VERB	Verb	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_63
-# text = navar aç’andinen komişk’un.
+# text = navar açʼandinen komişkʼun.
 1	navar	na	SCONJ	_	_	2	mark	_	_
-2	aç’andinen	aç’andin	VERB	Verb	_	3	ccomp	_	_
-3	komişk’un	komişk’	VERB	_	_	0	root	_	SpaceAfter=No
+2	açʼandinen	açʼandin	VERB	Verb	_	3	ccomp	_	_
+3	komişkʼun	komişkʼ	VERB	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Punc	_	3	punct	_	_
 
 # sent_id = be-thesis_65
-# text = navar axaparen komişk’un.
+# text = navar axaparen komişkʼun.
 1	navar	na	SCONJ	_	_	2	mark	_	_
 2	axaparen	axapar	VERB	_	_	3	ccomp	_	_
-3	komişk’un	komişk	VERB	_	_	0	root	_	SpaceAfter=No
+3	komişkʼun	komişk	VERB	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Punc	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_66
-# text = Alişi odit’sinu odit’sinoni ort’u
+# text = Alişi oditʼsinu oditʼsinoni ortʼu
 1	Alişi	Ali	PROPN	_	_	2	nmod:poss	_	_
-2	odit’sinu	odit’sin	VERB	_	_	3	nsubj	_	_
-3	odit’sinoni	odit’sinoni	ADJ	_	_	0	root	_	_
-4	ort’u	ort’U	AUX	_	_	3	cop	_	SpacesAfter=\n
+2	oditʼsinu	oditʼsin	VERB	_	_	3	nsubj	_	_
+3	oditʼsinoni	oditʼsinoni	ADJ	_	_	0	root	_	_
+4	ortʼu	ortʼu	AUX	_	_	3	cop	_	SpacesAfter=\n
 
 # sent_id = be-thesis_67
-# text = filimişi oditsinu oditsinoni ort’u
+# text = filimişi oditsinu oditsinoni ortʼu
 1	filimişi	filimi	NOUN	Noun	_	2	nmod	_	_
 2	oditsinu	oditsin	NOUN	Noun	_	3	nsubj	_	_
 3	oditsinoni	oditsinoni	ADJ	ADJ	_	0	root	_	_
-4	ort’u	ort’	AUX	_	_	3	cop	_	SpacesAfter=\n
+4	ortʼu	ortʼu	AUX	_	_	3	cop	_	SpacesAfter=\n
 
 # sent_id = be-thesis_68
-# text = Alişi ğomaneri malvas p’tsadi.
+# text = Alişi ğomaneri malvas pʼtsadi.
 1	Alişi	Aliş	PROPN	Noun	_	3	nmod:poss	_	_
 2	ğomaneri	ğomaneri	ADJ	Adj	_	3	amod	_	_
 3	malvas	malvas	VERB	_	_	4	obj	_	_
-4	p’tsadi	p’tsa	VERB	Verb	_	0	root	_	SpaceAfter=No
+4	pʼtsadi	pʼtsa	VERB	Verb	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Punc	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_71
@@ -474,49 +474,49 @@
 2	svaramuşi	svara	NOUN	Noun	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_77
-# text = Ma koc’işi oğurumuşi bgorum
+# text = Ma kocʼişi oğurumuşi bgorum
 1	Ma	Ma	PRON	Noun	_	4	nsubj	_	_
-2	koc’işi	koc’i	NOUN	Noun	_	3	nsubj	_	_
+2	kocʼişi	kocʼi	NOUN	Noun	_	3	nsubj	_	_
 3	oğurumuşi	oğur	VERB	Noun	_	4	ccomp	_	_
 4	bgorum	bgor	VERB	Noun	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_78
-# text = Ma Alişi svara zerbi zerbi og’itğumuşi bgorum.
+# text = Ma Alişi svara zerbi zerbi ogʼitğumuşi bgorum.
 1	Ma	Ma	PRON	_	_	7	nsubj	_	_
 2	Alişi	Aliş	PROPN	_	_	6	nsubj	_	_
 3	svara	svar	NOUN	_	_	6	obj	_	_
 4	zerbi	zerbi	ADV	_	_	5	compound:redup	_	_
 5	zerbi	zerbi	ADV	_	_	6	advmod	_	_
-6	og’itğumuşi	og’itk	VERB	_	_	7	ccomp	_	_
+6	ogʼitğumuşi	ogʼitk	VERB	_	_	7	ccomp	_	_
 7	bgorum	bgorum	VERB	_	_	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	Punc	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_79
-# text = Ma bere bgareri domat’sonu.
+# text = Ma bere bgareri domatʼsonu.
 1	Ma	Ma	PRON	Pron	_	4	nsubj	_	_
 2	bere	bere	NOUN	Noun	_	3	nsubj	_	_
 3	bgareri	bgarer	VERB	Verb	_	4	ccomp	_	_
-4	domat’sonu	domat’son	VERB	Verb	_	0	root	_	SpaceAfter=No
+4	domatʼsonu	domatʼson	VERB	Verb	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Punc	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_80
-# text = Ma bere zerbi ok’apineri domat’sonu.
+# text = Ma bere zerbi okʼapineri domatʼsonu.
 1	Ma	Ma	PRON	Pron	_	5	nsubj	_	_
 2	bere	ber	NOUN	Noun	_	4	nsubj	_	_
 3	zerbi	zerbi	ADV	Adv	_	4	advmod	_	_
-4	ok’apineri	ok’apin	VERB	Verb	_	5	ccomp	_	_
-5	domat’sonu	dat’son	VERB	Verb	_	0	root	_	SpaceAfter=No
+4	okʼapineri	okʼapin	VERB	Verb	_	5	ccomp	_	_
+5	domatʼsonu	datʼson	VERB	Verb	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Punct	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_83
-# text = ški vok’apit
+# text = ški vokʼapit
 1	ški	ški	PRON	Pron	_	2	nsubj	_	_
-2	vok’apit	k’ap	VERB	Verb	_	0	root	_	SpacesAfter=\n
+2	vokʼapit	kʼap	VERB	Verb	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_84
-# text = ški mok’apun
+# text = ški mokʼapun
 1	ški	ški	NOUN	Noun	_	2	nsubj	_	_
-2	mok’apun	k’ap	VERB	Verb	_	0	root	_	SpacesAfter=\n
+2	mokʼapun	kʼap	VERB	Verb	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_85
 # text = Ma Alişi Ayşes svara meçamumuşi bgorum.
@@ -529,13 +529,13 @@
 7	.	.	PUNCT	Punc	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_86
-# text = Ma Amedik Ayşes svara na mec’u komişkun.
+# text = Ma Amedik Ayşes svara na mecʼu komişkun.
 1	Ma	Ma	PRON	Pron	_	7	nsubj	_	_
 2	Amedik	Amedi	PROPN	Propn	_	6	nsubj	_	_
 3	Ayşes	Ayşe	PROPN	Propn	_	6	iobj	_	_
 4	svara	svara	NOUN	Noun	_	6	obj	_	_
 5	na	na	SCONJ	_	_	6	mark	_	_
-6	mec’u	mec’	VERB	Verb	_	7	ccomp	_	_
+6	mecʼu	mecʼ	VERB	Verb	_	7	ccomp	_	_
 7	komişkun	işk	VERB	Verb	_	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	Punc	_	7	punct	_	SpacesAfter=\n
 
@@ -566,11 +566,11 @@
 6	.	.	PUNCT	Punc	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_90
-# text = Berepek Ayşes svara mec’an
+# text = Berepek Ayşes svara mecʼan
 1	Berepek	Bere	NOUN	Noun	_	4	nsubj	_	_
 2	Ayşes	Ayşe	PROPN	Prop	_	4	iobj	_	_
 3	svara	savara	NOUN	Noun	_	4	obj	_	_
-4	mec’an	mec’	VERB	VERB	_	0	root	_	SpacesAfter=\n
+4	mecʼan	mecʼ	VERB	VERB	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_91
 # text = Berepes svara nuçamapun
@@ -589,16 +589,16 @@
 2	coles	col	VERB	_	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_94
-# text = Bereepes ma goc’ondru
+# text = Bereepes ma gocʼondru
 1	Bereepes	Bere	NOUN	Noun	_	3	nsubj	_	_
 2	ma	ma	PRON	Noun	_	3	obj	_	_
-3	goc’ondru	c’ondr	VERB	Verb	_	0	root	_	SpacesAfter=\n
+3	gocʼondru	cʼondr	VERB	Verb	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_95
-# text = Bereepes ma goc’ondres
+# text = Bereepes ma gocʼondres
 1	Bereepes	Bere	NOUN	Noun	_	3	nsubj	_	_
 2	ma	ma	PRON	Noun	_	3	obj	_	_
-3	goc’ondres	c'ondr	VERB	Noun	_	0	root	_	SpacesAfter=\n
+3	gocʼondres	c'ondr	VERB	Noun	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_96
 # text = Bereepes ubgarapuran
@@ -611,15 +611,15 @@
 2	ubgarapun	bgar	VERB	Noun	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_98
-# text = Bereepek uk’ap’es
+# text = Bereepek ukʼapʼes
 1	Bereepek	Bere	NOUN	Noun	_	2	nsubj	_	_
-2	uk’ap’es	k'ap'	VERB	Verb	_	0	root	_	SpacesAfter=\n
+2	ukʼapʼes	k'ap'	VERB	Verb	_	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_99
-# text = Bereepek kart’ali dot’k’ves
+# text = Bereepek kartʼali dotʼkʼves
 1	Bereepek	Bere	NOUN	noun	_	3	nsubj	_	_
-2	kart’ali	kart’ali	NOUN	noun	_	3	obj	_	_
-3	dot’k’ves	t'k'v	VERB	verb	_	0	root	_	SpacesAfter=\n
+2	kartʼali	kartʼali	NOUN	noun	_	3	obj	_	_
+3	dotʼkʼves	t'k'v	VERB	verb	_	0	root	_	SpacesAfter=\n
 
 # sent_id = dl-article_1
 # text = Berek dişk'a t'axu.
@@ -762,8 +762,8 @@
 2	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
 # sent_id = dn-article_1
-# text = t’axuman
-1	t’axuman	t’ax	VERB	_	Aspect=Imp|Number=Plur|Person=3|Tense=Pres	0	root	_	SpacesAfter=\n
+# text = tʼaxuman
+1	tʼaxuman	tʼax	VERB	_	Aspect=Imp|Number=Plur|Person=3|Tense=Pres	0	root	_	SpacesAfter=\n
 
 # sent_id = dn-article_2
 # text = t'axes
@@ -1211,10 +1211,10 @@
 10	.	.	PUNCT	_	_	9	punct	_	SpacesAfter=\n
 
 # sent_id = dnels48-article_1
-# text = Artes çxombi aşk’omu.
+# text = Artes çxombi aşkʼomu.
 1	Artes	Arte	NOUN	Propn	_	3	nsubj	_	_
 2	çxombi	çxombi	NOUN	Noun	_	3	obj	_	_
-3	aşk’omu	şk’om	VERB	Verb	_	0	root	_	SpaceAfter=No
+3	aşkʼomu	şkʼom	VERB	Verb	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Punc	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = dnels48-article_2
@@ -2665,13 +2665,13 @@
 6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = dars-article_2
-# text = Ma Ali noseri on ma pt’k’vi.
+# text = Ma Ali noseri on ma ptʼkʼvi.
 1	Ma	Ma	PRON	_	Case=Nom|Number=Sing|Person=3	6	nsubj	_	_
 2	Ali	Ali	PROPN	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
 3	noseri	noseri	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	ccomp	_	_
 4	on	on	AUX	_	_	3	cop	_	_
 5	ma	ma	SCONJ	_	_	3	mark	_	_
-6	pt’k’vi	t’k’vi	VERB	_	_	0	root	_	SpaceAfter=No
+6	ptʼkʼvi	tʼkʼvi	VERB	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = dars-article_3
@@ -2685,52 +2685,52 @@
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = dars-article_4
-# text = Artek ma noseri vore ya t’k’u.
+# text = Artek ma noseri vore ya tʼkʼu.
 1	Artek	Arte	PROPN	_	Case=Erg|Number=Sing|Person=3	6	nsubj	_	_
 2	ma	ma	PRON	_	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
 3	noseri	noseri	ADJ	_	_	6	ccomp	_	_
 4	vore	vore	AUX	_	Case=Nom|Number=Sing|Person=3	3	cop	_	_
 5	ya	ya	SCONJ	_	_	3	mark	_	_
-6	t’k’u	t’k’	VERB	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	SpaceAfter=No
+6	tʼkʼu	tʼkʼ	VERB	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = dars-article_5
-# text = Artek ma noseri navore t’k’u.
+# text = Artek ma noseri navore tʼkʼu.
 1	Artek	Arte	PROPN	_	Case=Erg|Number=Sing|Person=3	5	nsubj	_	_
 2	ma	ma	PRON	_	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
 3	noseri	noseri	ADJ	_	_	5	ccomp	_	_
 4	navore	vore	AUX	_	_	3	cop	_	_
-5	t’k’u	t’k’	VERB	_	_	0	root	_	SpaceAfter=No
+5	tʼkʼu	tʼkʼ	VERB	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = dars-article_6
-# text = Si Ali noseri on ya t’k’vi.
+# text = Si Ali noseri on ya tʼkʼvi.
 1	Si	Si	PRON	_	Case=Nom|Number=Sing|Person=2	6	nsubj	_	_
 2	Ali	Ali	PROPN	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
 3	noseri	noseri	NOUN	_	_	6	ccomp	_	_
 4	on	on	AUX	_	_	3	cop	_	_
 5	ya	ya	SCONJ	_	_	3	mark	_	_
-6	t’k’vi	t’k’v	VERB	_	_	0	root	_	SpaceAfter=No
+6	tʼkʼvi	tʼkʼv	VERB	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = dars-article_7
-# text = Şk’u Ali noseri on ya pt’k’vit.
-1	Şk’u	Şk’u	PROPN	_	Case=Nom|Number=Plur|Person=1	6	nsubj	_	_
+# text = Şkʼu Ali noseri on ya ptʼkʼvit.
+1	Şkʼu	Şkʼu	PROPN	_	Case=Nom|Number=Plur|Person=1	6	nsubj	_	_
 2	Ali	Ali	PROPN	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
 3	noseri	noseri	ADJ	_	_	6	ccomp	_	_
 4	on	on	AUX	_	_	3	cop	_	_
 5	ya	ya	SCONJ	_	_	3	mark	_	_
-6	pt’k’vit	pt’k’vit	VERB	_	_	0	root	_	SpaceAfter=No
+6	ptʼkʼvit	ptʼkʼvit	VERB	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = dars-article_8
-# text = Artek ma noseri vore ya t’k’u..
+# text = Artek ma noseri vore ya tʼkʼu..
 1	Artek	Arte	PROPN	_	Case=Erg|Number=Sing|Person=3	2	nsubj	_	_
 2	ma	ma	PRON	_	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
 3	noseri	noseri	ADJ	_	_	6	ccomp	_	_
 4	vore	vore	AUX	_	_	3	cop	_	_
 5	ya	ya	SCONJ	_	_	3	mark	_	_
-6	t’k’u	t’k’	VERB	_	_	0	root	_	SpaceAfter=No
+6	tʼkʼu	tʼkʼ	VERB	_	_	0	root	_	SpaceAfter=No
 7	..	..	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = dars-article_9
@@ -2743,13 +2743,13 @@
 6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = dars-article_10
-# text = Tanurak ma mi malimben ya t’k’u.
+# text = Tanurak ma mi malimben ya tʼkʼu.
 1	Tanurak	Tanura	PROPN	_	Case=Erg|Number=Sing|Person=3	6	nsubj	_	_
 2	ma	ma	PRON	_	Case=Nom|Number=Sing|Person=1	4	nsubj	_	_
 3	mi	mi	PRON	_	_	4	obj	_	_
 4	malimben	malimben	VERB	_	_	6	ccomp	_	_
 5	ya	ya	SCONJ	_	_	4	mark	_	_
-6	t’k’u	t’k’	VERB	_	_	0	root	_	SpaceAfter=No
+6	tʼkʼu	tʼkʼ	VERB	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = dars-article_11
@@ -2773,8 +2773,8 @@
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = dars-article_13
-# text = Şk’u Ali noseri on ya viduşunamt.
-1	Şk’u	Şk’u	PRON	_	Case=Nom|Number=Plur|Person=1	6	nsubj	_	_
+# text = Şkʼu Ali noseri on ya viduşunamt.
+1	Şkʼu	Şkʼu	PRON	_	Case=Nom|Number=Plur|Person=1	6	nsubj	_	_
 2	Ali	Ali	PROPN	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
 3	noseri	noseri	ADJ	_	_	6	ccomp	_	_
 4	on	on	AUX	_	_	3	cop	_	_
@@ -2783,32 +2783,32 @@
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = dars-article_14
-# text = Sik ma nanaşkimi Mp’olişe naidu bdziri ya tkvi
+# text = Sik ma nanaşkimi Mpʼolişe naidu bdziri ya tkvi
 1	Sik	Si	PRON	_	_	8	nsubj	_	_
 2	ma	ma	PRON	_	Case=Nom|Number=Sing|Person=1	6	nsubj	_	_
 3	nanaşkimi	nanaşkimi	NOUN	_	Case=Nom|Number=Sing|Person=3	5	nsubj	_	_
-4	Mp’olişe	Mp’oli	PROPN	_	Case=Nom|Number=Sing|Person=3	5	obl	_	_
+4	Mpʼolişe	Mpʼoli	PROPN	_	Case=Nom|Number=Sing|Person=3	5	obl	_	_
 5	naidu	idu	VERB	_	_	8	ccomp	_	_
 6	bdziri	dzir	VERB	_	_	5	ccomp	_	_
 7	ya	ya	SCONJ	_	_	6	mark	_	_
 8	tkvi	tkv	VERB	_	_	0	root	_	SpacesAfter=\n
 
 # sent_id = dars-article_15
-# text = Şanak ma noseri vore ya t’k’u
+# text = Şanak ma noseri vore ya tʼkʼu
 1	Şanak	Şanak	PROPN	_	Case=Erg|Number=Sing|Person=3	6	nsubj	_	_
 2	ma	ma	PRON	_	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
 3	noseri	noseri	ADJ	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	ccomp	_	_
 4	vore	vore	AUX	_	_	3	cop	_	_
 5	ya	ya	SCONJ	_	_	3	mark	_	_
-6	t’k’u	t’k’	VERB	_	_	0	root	_	SpacesAfter=\n
+6	tʼkʼu	tʼkʼ	VERB	_	_	0	root	_	SpacesAfter=\n
 
 # sent_id = dars-article_16
-# text = Şanak ma noseri navore t’k’u
+# text = Şanak ma noseri navore tʼkʼu
 1	Şanak	Şana	PROPN	_	Case=Erg|Number=Sing|Person=3	5	nsubj	_	_
 2	ma	ma	PRON	_	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
 3	noseri	noseri	ADJ	_	_	5	ccomp	_	_
 4	navore	vore	AUX	_	_	3	cop	_	_
-5	t’k’u	t’k’	VERB	_	_	0	root	_	SpacesAfter=\n
+5	tʼkʼu	tʼkʼ	VERB	_	_	0	root	_	SpacesAfter=\n
 
 # sent_id = oz-article_1
 # text = Ahmedik toyç'i zdams.
@@ -3162,27 +3162,27 @@
 6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_2
-# text = Koçik mi cenç’areri mincğonu.
+# text = Koçik mi cençʼareri mincğonu.
 1	Koçik	Koçi	NOUN	_	_	4	nsubj	_	_
 2	mi	mi	PRON	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	iobj	_	_
-3	cenç’areri	cenç’areri	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	obj	_	_
+3	cençʼareri	cençʼareri	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	obj	_	_
 4	mincğonu	ncğon	VERB	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=2	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_3
-# text = Ma Ahmedis pasta vuç’vi.
+# text = Ma Ahmedis pasta vuçʼvi.
 1	Ma	Ma	PRON	_	Number=Sing|Person=1	4	nsubj	_	_
 2	Ahmedis	Ahmedi	PROPN	_	Case=Dat|Number=Sing|Person=3	4	obl	_	_
 3	pasta	pasta	NOUN	_	Number=Sing	4	obj	_	_
-4	vuç’vi	ç'v	VERB	_	Person=1	0	root	_	SpaceAfter=No
+4	vuçʼvi	ç'v	VERB	_	Person=1	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_4
-# text = Si ma pasta miç’vi.
+# text = Si ma pasta miçʼvi.
 1	Si	Si	PRON	_	Number=Sing|Person=1	4	nsubj	_	_
 2	ma	ma	PRON	_	Number=Sing|Person=1	4	obl	_	_
 3	pasta	pasta	NOUN	_	Number=Sing	4	obj	_	_
-4	miç’vi	ç'v	VERB	_	_	0	root	_	SpaceAfter=No
+4	miçʼvi	ç'v	VERB	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_5
@@ -3202,55 +3202,55 @@
 5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_7
-# text = Alis cami ut’axapun.
+# text = Alis cami utʼaxapun.
 1	Alis	Ali	PROPN	_	Case=Dat|Number=Sing|Person=3	3	nsubj	_	_
 2	cami	cami	NOUN	_	Number=Sing	3	obj	_	_
-3	ut’axapun	ap	VERB	_	Aspect=Perf|Person=3|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
+3	utʼaxapun	ap	VERB	_	Aspect=Perf|Person=3|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_8
-# text = Ma cami mit’axapun.
+# text = Ma cami mitʼaxapun.
 1	Ma	Ma	PRON	_	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
 2	cami	cami	NOUN	_	Number=Sing	3	obj	_	_
-3	mit’axapun	ap	VERB	_	_	0	root	_	SpaceAfter=No
+3	mitʼaxapun	ap	VERB	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_9
-# text = Alis cami at’axen
+# text = Alis cami atʼaxen
 1	Alis	Ali	PROPN	_	Case=Dat|Number=Sing|Person=3	3	nsubj	_	_
 2	cami	cami	NOUN	_	_	3	obj	_	_
-3	at’axen	t’ax	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	0	root	_	SpacesAfter=\n
+3	atʼaxen	tʼax	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	0	root	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_10
-# text = Ma cami mat’axen.
+# text = Ma cami matʼaxen.
 1	Ma	Ma	PRON	_	Number=Sing|Person=1	3	nsubj	_	_
 2	cami	cami	NOUN	_	Number=Sing	3	obj	_	_
-3	mat’axen	t'ax	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	0	root	_	SpaceAfter=No
+3	matʼaxen	t'ax	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_11
-# text = Xordzak Alis k’oçis bere uşk’u.
+# text = Xordzak Alis kʼoçis bere uşkʼu.
 1	Xordzak	Xordza	NOUN	_	Case=Erg|Number=Sing|Person=3	5	nsubj	_	_
 2	Alis	Ali	PROPN	_	Case=Dat|Number=Sing|Person=3	5	obl	_	_
-3	k’oçis	k'oçi	NOUN	_	Case=Dat|Number=Sing|Person=3	5	iobj	_	_
+3	kʼoçis	k'oçi	NOUN	_	Case=Dat|Number=Sing|Person=3	5	iobj	_	_
 4	bere	bere	NOUN	_	Number=Sing|Person=3	5	obj	_	_
-5	uşk’u	şk’	VERB	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	SpaceAfter=No
+5	uşkʼu	şkʼ	VERB	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_12
-# text = Xordzas Alis bere uş’kapun.
+# text = Xordzas Alis bere uşʼkapun.
 1	Xordzas	Xordza	NOUN	_	Case=Dat|Number=Sing|Person=3	4	nsubj	_	_
 2	Alis	Ali	PROPN	_	Case=Dat|Number=Sing|Person=3	4	iobj	_	_
 3	bere	bere	NOUN	_	Number=Sing|Person=3	4	obj	_	_
-4	uş’kapun	ş'k	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
+4	uşʼkapun	ş'k	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_13
-# text = Xordzas Alis bere aş’kven.
+# text = Xordzas Alis bere aşʼkven.
 1	Xordzas	Xordza	NOUN	_	Case=Dat|Number=Sing|Person=3	4	nsubj	_	_
 2	Alis	Ali	PROPN	_	Case=Dat|Number=Sing|Person=3	4	iobj	_	_
 3	bere	bere	NOUN	_	Number=Sing|Person=3	4	obj	_	_
-4	aş’kven	ş’k	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	0	root	_	SpaceAfter=No
+4	aşʼkven	şʼk	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_14
@@ -3315,8 +3315,8 @@
 4	.	.	PUNCT	Punc	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_23
-# text = p’i yemas.
-1	p’i	p’i	ADJ	_	_	2	amod	_	_
+# text = pʼi yemas.
+1	pʼi	pʼi	ADJ	_	_	2	amod	_	_
 2	yemas	yema	NOUN	_	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
@@ -3433,16 +3433,16 @@
 4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_40
-# text = K’oçik xorzas şemşiye ukaçu.
-1	K’oçik	K’oçi	NOUN	_	Case=Erg|Number=Sing|Person=3	4	nsubj	_	_
+# text = Kʼoçik xorzas şemşiye ukaçu.
+1	Kʼoçik	Kʼoçi	NOUN	_	Case=Erg|Number=Sing|Person=3	4	nsubj	_	_
 2	xorzas	xorza	NOUN	_	Case=Dat|Number=Sing|Person=3	4	obl	_	_
 3	şemşiye	şemşiye	NOUN	_	Number=Sing	4	obj	_	_
 4	ukaçu	kaç	VERB	_	Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_41
-# text = K’oçik ma şemşiye mikaçu.
-1	K’oçik	K’oçi	NOUN	_	Case=Erg|Number=Sing|Person=3	4	nsubj	_	_
+# text = Kʼoçik ma şemşiye mikaçu.
+1	Kʼoçik	Kʼoçi	NOUN	_	Case=Erg|Number=Sing|Person=3	4	nsubj	_	_
 2	ma	ma	PRON	_	Number=Sing|Person=1	4	obl	_	_
 3	şemşiye	şemsiye	NOUN	_	Number=Sing	4	obj	_	_
 4	mikaçu	kaç	VERB	_	Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	SpaceAfter=No
@@ -3457,37 +3457,37 @@
 5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_43
-# text = K’oçik Alis si mekçu.
-1	K’oçik	K’oçi	NOUN	_	Case=Erg|Number=Sing|Person=3	4	nsubj	_	_
+# text = Kʼoçik Alis si mekçu.
+1	Kʼoçik	Kʼoçi	NOUN	_	Case=Erg|Number=Sing|Person=3	4	nsubj	_	_
 2	Alis	Ali	PROPN	_	Case=Dat|Number=Sing|Person=3	4	obl	_	_
 3	si	si	PRON	_	Number=Sing|Person=2	4	obj	_	_
 4	mekçu	ç	VERB	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_44
-# text = K’oçik xorzas si
-1	K’oçik	K’oçik	ADJ	Adj	_	2	amod	_	_
+# text = Kʼoçik xorzas si
+1	Kʼoçik	Kʼoçik	ADJ	Adj	_	2	amod	_	_
 2	xorzas	xorzas	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	nmod:poss	_	_
 3	si	s	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_45
-# text = Alik ar talebes k’ata çitabi meçu.
+# text = Alik ar talebes kʼata çitabi meçu.
 1	Alik	Ali	PROPN	_	Case=Erg|Number=Sing|Person=3	6	nmod	_	_
 2	ar	ar	ADJ	_	Number=Sing	3	amod	_	_
 3	talebes	talebe	NOUN	_	Number=Plur	6	obl	_	_
-4	k’ata	k'ata	ADJ	_	_	5	amod	_	_
+4	kʼata	k'ata	ADJ	_	_	5	amod	_	_
 5	çitabi	çitabi	NOUN	_	Number=Sing	6	obj	_	_
 6	meçu	me	VERB	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_46
-# text = Alik ar talebes k’ata çitabi uşk’u.
+# text = Alik ar talebes kʼata çitabi uşkʼu.
 1	Alik	Ali	PROPN	_	Case=Erg|Number=Sing|Person=3	6	nmod	_	_
 2	ar	ar	ADJ	_	Number=Sing	3	amod	_	_
 3	talebes	talebes	NOUN	_	Number=Plur	6	obl	_	_
-4	k’ata	k’ata	NOUN	_	_	5	amod	_	_
+4	kʼata	kʼata	NOUN	_	_	5	amod	_	_
 5	çitabi	çitabi	NOUN	_	Number=Sing	6	obj	_	_
-6	uşk’u	şk	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	SpaceAfter=No
+6	uşkʼu	şk	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_47
@@ -3549,9 +3549,9 @@
 2	gurgulams	gurgul	NOUN	_	_	0	root	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_56
-# text = Amedik t’abaxi çxams
+# text = Amedik tʼabaxi çxams
 1	Amedik	Amedi	PROPN	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Past	3	nsubj	_	_
-2	t’abaxi	t’abaxi	NOUN	_	_	3	obj	_	_
+2	tʼabaxi	tʼabaxi	NOUN	_	_	3	obj	_	_
 3	çxams	çx	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_57
@@ -3561,9 +3561,9 @@
 3	şolums	şol	NOUN	_	_	0	root	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_58
-# text = Ahmedik dişk’a moğams.
+# text = Ahmedik dişkʼa moğams.
 1	Ahmedik	Ahmedik	PROPN	_	Case=Erg|Number=Sing|Person=3	3	nsubj	_	_
-2	dişk’a	dişk’a	NOUN	_	_	3	obj	_	_
+2	dişkʼa	dişkʼa	NOUN	_	_	3	obj	_	_
 3	moğams	Ğ	NOUN	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
@@ -3574,13 +3574,13 @@
 3	tzopxums	tzops	VERB	_	Case=Nom|Number=Sing|Person=3	0	root	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_60
-# text = Çilepe t’vatsun
+# text = Çilepe tʼvatsun
 1	Çilepe	Çile	NOUN	_	Number=Plur	2	nsubj	_	_
-2	t’vatsun	t’vats	VERB	_	_	0	root	_	SpacesAfter=\n
+2	tʼvatsun	tʼvats	VERB	_	_	0	root	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_61
-# text = Mts’upun
-1	Mts’upun	Mts’up	NOUN	Noun	Case=Gen|Number=Sing|Person=3	0	root	_	SpacesAfter=\n
+# text = Mtsʼupun
+1	Mtsʼupun	Mtsʼup	NOUN	Noun	Case=Gen|Number=Sing|Person=3	0	root	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_62
 # text = Bere ncaşe eyulun
@@ -3589,8 +3589,8 @@
 3	eyulun	ul	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	0	root	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_63
-# text = Dişk’a miğen.
-1	Dişk’a	Dişk’a	NOUN	_	Number=Sing	2	nsubj	_	_
+# text = Dişkʼa miğen.
+1	Dişkʼa	Dişkʼa	NOUN	_	Number=Sing	2	nsubj	_	_
 2	miğen	miğ	VERB	_	Case=Nom|Number=Sing|Person=3	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
@@ -3636,38 +3636,38 @@
 4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_70
-# text = Cami k’asite amolva şeni ç’ak’uç’ite it’axen
+# text = Cami kʼasite amolva şeni çʼakʼuçʼite itʼaxen
 1	Cami	cami	NOUN	_	Number=Sing	6	nsubj	_	_
-2	k’asite	k’asi	ADV	_	_	6	advmod	_	_
+2	kʼasite	kʼasi	ADV	_	_	6	advmod	_	_
 3	amolva	amolva	NOUN	_	_	4	obl	_	_
 4	şeni	şeni	ADP	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	case	_	_
-5	ç’ak’uç’ite	ç’ak’uç’i	NOUN	_	Case=Loc|Number=Sing|Person=3	6	obl	_	_
-6	it’axen	t’ax	VERB	_	Case=Nom|Number=Sing|Person=3	0	root	_	SpacesAfter=\n
+5	çʼakʼuçʼite	çʼakʼuçʼi	NOUN	_	Case=Loc|Number=Sing|Person=3	6	obl	_	_
+6	itʼaxen	tʼax	VERB	_	Case=Nom|Number=Sing|Person=3	0	root	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_71
-# text = Alik çendi var msk’vams.
+# text = Alik çendi var mskʼvams.
 1	Alik	Ali	NOUN	_	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
 2	çendi	çendi	PRON	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Pass	4	obj	_	_
 3	var	var	PART	_	_	4	advmod	_	_
-4	msk’vams	msk'v	VERB	_	Case=Nom|Number=Sing|Person=3	0	root	_	SpaceAfter=No
+4	mskʼvams	msk'v	VERB	_	Case=Nom|Number=Sing|Person=3	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_72
-# text = Çendi var imsk’ven.
+# text = Çendi var imskʼven.
 1	Çendi	Çendi	PRON	_	Case=Nom|Number=Sing|Person=3|Reflex=Yes	3	nsubj	_	_
 2	var	var	PART	_	_	3	advmod	_	_
-3	imsk’ven	imsk’v	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	0	root	_	SpaceAfter=No
+3	imskʼven	imskʼv	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_73
-# text = Ma cami amolva şeni fiçiri meçameri mat’axen.
+# text = Ma cami amolva şeni fiçiri meçameri matʼaxen.
 1	Ma	Ma	PRON	_	Case=Nom|Number=Sing|Person=3	7	nsubj	_	_
 2	cami	cami	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	obj	_	_
 3	amolva	amolva	NOUN	_	Case=Nom|Number=Sing|Person=3	7	xcomp	_	_
 4	şeni	şen	ADP	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	case	_	_
 5	fiçiri	fiçir	ADV	_	Case=Nom|Number=Sing|Person=3	7	advmod	_	_
 6	meçameri	meçamer	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	compound	_	_
-7	mat’axen	t'ax	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	0	root	_	SpaceAfter=No
+7	matʼaxen	t'ax	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_74
@@ -3683,14 +3683,14 @@
 3	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_76
-# text = Noti k’elemite Alis parti goşinu şeni nç’arun.
+# text = Noti kʼelemite Alis parti goşinu şeni nçʼarun.
 1	Noti	Noti	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	nsubj	_	_
-2	k’elemite	k’elemi	NOUN	_	Case=Loc|Number=Sing|Person=3	7	obl	_	_
+2	kʼelemite	kʼelemi	NOUN	_	Case=Loc|Number=Sing|Person=3	7	obl	_	_
 3	Alis	Ali	PROPN	_	Case=Nom|Number=Sing|Person=3	7	obl	_	_
 4	parti	parti	NOUN	_	Case=Nom|Number=Sing|Person=3	5	nmod	_	_
 5	goşinu	goşinu	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	obl	_	_
 6	şeni	şeni	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	obj	_	_
-7	nç’arun	nç’ar	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
+7	nçʼarun	nçʼar	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_77
@@ -3710,13 +3710,13 @@
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_79
-# text = Ayşes ham oxoris opşa cami ut’axapun.
+# text = Ayşes ham oxoris opşa cami utʼaxapun.
 1	Ayşes	Ayşe	PROPN	_	Case=Nom|Number=Sing|Person=3	6	nsubj	_	_
 2	ham	ham	DET	_	Case=Nom|Number=Sing|Person=3	3	det	_	_
 3	oxoris	oxori	NOUN	_	Case=Nom|Number=Sing|Person=3	6	obl	_	_
 4	opşa	opşa	DET	_	Case=Nom|Number=Sing|Person=3	5	det	_	_
 5	cami	cami	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	obj	_	_
-6	ut’axapun	t'ax	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
+6	utʼaxapun	t'ax	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_80
@@ -3770,13 +3770,13 @@
 6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_86
-# text = Ma bere vort’işen doni dişk’a mat’axu donu.
+# text = Ma bere vortʼişen doni dişkʼa matʼaxu donu.
 1	Ma	Ma	PRON	_	Case=Nom|Number=Sing|Person=3	6	nsubj	_	_
 2	bere	bere	ADV	_	Case=Nom|Number=Sing|Person=3	6	advcl	_	_
-3	vort’işen	vort’iş	AUX	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	2	cop	_	_
+3	vortʼişen	ortʼu	AUX	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	2	cop	_	_
 4	doni	don	SCONJ	_	Case=Nom|Number=Sing|Person=3	2	mark	_	_
-5	dişk’a	dişk’a	NOUN	_	Case=Nom|Number=Sing|Person=3	6	obj	_	_
-6	mat’axu	mat’ax	VERB	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	_
+5	dişkʼa	dişkʼa	NOUN	_	Case=Nom|Number=Sing|Person=3	6	obj	_	_
+6	matʼaxu	matʼax	VERB	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	_
 7	donu	onu	AUX	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	cop	_	SpaceAfter=No
 8	.	.	PUNCT	Punc	_	7	punct	_	SpacesAfter=\n
 
@@ -3807,10 +3807,10 @@
 4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = ozloss-article_5
-# text = T’k’va irik şk’u mdzirit.
-1	T’k’va	T’k’va	PRON	_	_	4	nsubj	_	_
+# text = Tʼkʼva irik şkʼu mdzirit.
+1	Tʼkʼva	Tʼkʼva	PRON	_	_	4	nsubj	_	_
 2	irik	iri	DET	_	_	1	det	_	_
-3	şk’u	şk’u	PRON	_	_	4	obj	_	_
+3	şkʼu	şkʼu	PRON	_	_	4	obj	_	_
 4	mdzirit	dzir	VERB	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
@@ -3831,10 +3831,10 @@
 5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = ozloss-article_8
-# text = Ma beres cenç’areri vuncğoni.
+# text = Ma beres cençʼareri vuncğoni.
 1	Ma	Ma	PRON	_	_	4	nsubj	_	_
 2	beres	bere	NOUN	_	_	4	obl	_	_
-3	cenç’areri	cenç’areri	NOUN	_	_	4	obj	_	_
+3	cençʼareri	cençʼareri	NOUN	_	_	4	obj	_	_
 4	vuncğoni	ncğon	NOUN	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
@@ -3859,23 +3859,23 @@
 4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = ozloss-article_12
-# text = Cami t’axeri on.
+# text = Cami tʼaxeri on.
 1	Cami	cami	NOUN	_	_	2	nsubj	_	_
-2	t’axeri	t’ax	VERB	_	_	0	root	_	_
+2	tʼaxeri	tʼax	VERB	_	_	0	root	_	_
 3	on	on	AUX	_	_	2	cop	_	SpaceAfter=No
 4	.	.	PUNCT	Punc	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = ozloss-article_13
-# text = Cami it’axen.
+# text = Cami itʼaxen.
 1	Cami	cami	NOUN	_	_	2	nsubj	_	_
-2	it’axen	t’ax	VERB	_	_	0	root	_	SpaceAfter=No
+2	itʼaxen	tʼax	VERB	_	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = ozloss-article_14
-# text = Alik cami t’axums.
+# text = Alik cami tʼaxums.
 1	Alik	Ali	PROPN	_	Case=Erg|Number=Sing|Person=3	2	nsubj	_	_
 2	cami	cami	NOUN	_	_	3	obj	_	_
-3	t’axums	t’axums	VERB	_	_	0	root	_	SpaceAfter=No
+3	tʼaxums	tʼaxums	VERB	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = ozloss-article_15
@@ -3890,19 +3890,19 @@
 3	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = ozloss-article_17
-# text = Cami amolva şeni k’asite it’axen.
+# text = Cami amolva şeni kʼasite itʼaxen.
 1	Cami	cami	NOUN	_	_	2	nsubj	_	_
 2	amolva	amolva	VERB	_	_	5	xcomp	_	_
 3	şeni	şeni	ADP	_	_	2	case	_	_
-4	k’asite	k’asi	ADV	_	_	5	advmod	_	_
-5	it’axen	t’ax	VERB	_	_	0	root	_	SpaceAfter=No
+4	kʼasite	kʼasi	ADV	_	_	5	advmod	_	_
+5	itʼaxen	tʼax	VERB	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = ozloss-article_18
-# text = Beres ma goç’ondrun.
+# text = Beres ma goçʼondrun.
 1	Beres	Bere	NOUN	_	Case=Dat|Number=Sing|Person=3	3	nsubj	_	_
 2	ma	ma	PRON	_	_	3	obj	_	_
-3	goç’ondrun	ç’ondr	VERB	_	_	0	root	_	SpaceAfter=No
+3	goçʼondrun	çʼondr	VERB	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = ozloss-article_19
@@ -3943,10 +3943,10 @@
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = ozloss-article_24
-# text = Alis cami ut’axapun.
+# text = Alis cami utʼaxapun.
 1	Alis	Ali	PROPN	_	Case=Dat|Number=Sing|Person=3	3	nsubj	_	_
 2	cami	cami	NOUN	_	_	3	obj	_	_
-3	ut’axapun	t’ax	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
+3	utʼaxapun	tʼax	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = ozloss-article_25
@@ -4014,9 +4014,9 @@
 4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = ozloss-article_34
-# text = Ma t’k’va malimbu.
+# text = Ma tʼkʼva malimbu.
 1	Ma	Ma	PRON	_	_	3	nsubj	_	_
-2	t’k’va	t’k’va	PRON	_	_	3	obj	_	_
+2	tʼkʼva	tʼkʼva	PRON	_	_	3	obj	_	_
 3	malimbu	limb	NOUN	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
