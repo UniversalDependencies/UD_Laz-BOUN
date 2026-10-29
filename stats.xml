@@ -10,8 +10,8 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>576</sentences><tokens>2306</tokens><words>2306</words><fused>0</fused></test>
   </size>
-  <lemmas unique="461" /><!-- ., ma, bere, si, Ali, t'ax, mi, nana, dzir, ğur, limb, cami, ?, bgar, ham -->
-  <forms unique="679" /><!-- ., ma, si, beres, bere, noseri, berek, cami, ?, ham, ya, a, svara, Alik, dişk'a -->
+  <lemmas unique="460" /><!-- ., ma, bere, si, t'ax, Ali, mi, nana, dzir, ğur, limb, cami, ?, bgar, ham -->
+  <forms unique="678" /><!-- ., ma, si, beres, bere, noseri, berek, cami, ?, ham, ya, a, svara, Alik, dişk'a -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="14">
@@ -31,12 +31,11 @@
     <tag name="VERB">575</tag><!-- t'ax, dzir, ğur, limb, bgar, ç, gor, car, mbağ, ncğon -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="54">
+  <feats unique="48">
     <feat name="Animacy" value="Anim" upos="NOUN">5</feat><!-- layç'epe, k'at'upe, kinç'i, layç'isk'ani -->
     <feat name="Animacy" value="Hum" upos="NOUN">77</feat><!-- beres, Xordzak, k'oçik, bere, biç'is, Berek, Nanak, Koç'ik, Nanas, beremuşis -->
     <feat name="Animacy" value="Inan" upos="NOUN">21</feat><!-- dişk'a, yalis, ek'na, obiraşe, past'a, Furt'onak, cari, cenç'areri, nk'olak, nk'olate -->
     <feat name="Aspect" value="Imp" upos="NOUN,VERB">72</feat><!-- alimben, gorums, t'axum, çams, çitums, čarums, ğurun, ğururan, Colur, Micarapamt'it -->
-    <feat name="Aspect" value="Nom" upos="NOUN">1</feat><!-- K'oçi -->
     <feat name="Aspect" value="Perf" upos="AUX,NOUN,PRON,PROPN,VERB">52</feat><!-- ut’axapun, golulvapun, ibgars, indrikhen, mat’axen, Amedik, Bavshvma, Beres, abgarinen, aceren -->
     <feat name="Case" value="Abl" upos="NOUN">1</feat><!-- oxorişe -->
     <feat name="Case" value="Acc" upos="NOUN,PRON,PROPN,VERB">8</feat><!-- t'k'u, mincğonu, mits'u, obgarumuşi, onu -->
@@ -46,29 +45,24 @@
     <feat name="Case" value="Gen" upos="NOUN,PROPN,VERB">5</feat><!-- bereşi, Alik, Mts’upun, unçxun -->
     <feat name="Case" value="Ins" upos="NOUN">1</feat><!-- nk'olate -->
     <feat name="Case" value="Loc" upos="NOUN">6</feat><!-- yalis, k’elemite, livadis, ç’ak’uç’ite -->
-    <feat name="Case" value="Nom" upos="ADJ,ADP,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,SCONJ,VERB">378</feat><!-- ma, bere, si, cami, dişk'a, mi, noseri, oşk'uri, Ali, oxori -->
+    <feat name="Case" value="Nom" upos="ADJ,ADP,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,SCONJ,VERB">379</feat><!-- ma, bere, si, cami, dişk'a, mi, noseri, oşk'uri, Ali, oxori -->
     <feat name="Definite" value="Ind" upos="DET">13</feat><!-- a -->
     <feat name="Mood" value="Imp" upos="VERB">20</feat><!-- golulvapun, ibgars, ut’axapun, Beres, duçalişams, duğurun, edgams, eyulun, ibgaru, ndrukhun -->
     <feat name="Mood" value="Ind" upos="AUX,NOUN,PRON,PROPN,VERB">38</feat><!-- ibgars, c’olu, indrikhen, mat’axen, umbağ, čarums, Amedik, Bavshvma, abgarinen, aceren -->
     <feat name="Mood" value="Opt" upos="VERB">1</feat><!-- Tkva -->
-    <feat name="Number" value="1" upos="PRON">1</feat><!-- ma -->
-    <feat name="Number" value="2" upos="PRON">1</feat><!-- si -->
     <feat name="Number" value="Plur" upos="NOUN,PRON,PROPN,VERB">87</feat><!-- t'k'va, berepe, berepes, xepe, ğures, şk'u, Berepek, berepemuşi, golulvapun, layç'epe -->
-    <feat name="Number" value="Sg" upos="NOUN">1</feat><!-- Koç'ik -->
-    <feat name="Number" value="Sing" upos="ADJ,ADP,ADV,AUX,DET,NOUN,PRON,PROPN,SCONJ,VERB">732</feat><!-- ma, bere, beres, Alik, cami, Alis, Berek, k'oçik, Xordzak, si -->
+    <feat name="Number" value="Sing" upos="ADJ,ADP,ADV,AUX,DET,NOUN,PRON,PROPN,SCONJ,VERB">735</feat><!-- ma, bere, beres, Alik, cami, Alis, Berek, k'oçik, si, Xordzak -->
     <feat name="Number[erg]" value="Sing" upos="VERB">1</feat><!-- vumbağ -->
-    <feat name="Number[nom]" value="Sing" upos="VERB">2</feat><!-- gimbağ, mimbağ -->
+    <feat name="Number[obj]" value="Sing" upos="VERB">2</feat><!-- gimbağ, mimbağ -->
     <feat name="Number[psor]" value="Plur" upos="PRON">1</feat><!-- t'k'va -->
     <feat name="Number[psor]" value="Sing" upos="ADJ,ADP,ADV,AUX,NOUN,NUM,PRON,VERB">100</feat><!-- nanamuşis, noseri, timuşi, Nanamuşik, nanamuşi, beremuşi, beremuşis, cami, şeni, Nanaşkimik -->
     <feat name="NumType" value="Card" upos="AUX,NOUN">8</feat><!-- on, beremuşi, beres, obgarumuşi, yatağis -->
-    <feat name="Person" value="1" upos="NOUN,PRON,PROPN,VERB">129</feat><!-- ma, Şana, şk'u, bğuri, si, Şk’u, Amedik, bdziri, bere, bzdam -->
-    <feat name="Person" value="2" upos="NOUN,PRON,VERB">93</feat><!-- si, t'k'va, golulvapun, ibgars, ut’axapun, Beres, Coli, Colur, T'axi, T'axum -->
+    <feat name="Person" value="1" upos="NOUN,PRON,PROPN,VERB">130</feat><!-- ma, Şana, şk'u, bğuri, si, Şk’u, Amedik, bdziri, bere, bzdam -->
+    <feat name="Person" value="2" upos="NOUN,PRON,VERB">94</feat><!-- si, t'k'va, golulvapun, ibgars, ut’axapun, Beres, Coli, Colur, T'axi, T'axum -->
     <feat name="Person" value="3" upos="ADJ,ADP,ADV,AUX,DET,NOUN,PRON,PROPN,SCONJ,VERB">576</feat><!-- beres, bere, Alik, Alis, Ayşes, Berek, k'oçik, Xordzak, nanak, Ali -->
-    <feat name="Person" value="Prs" upos="PRON">2</feat><!-- ma, si -->
     <feat name="Person[erg]" value="1" upos="VERB">1</feat><!-- vumbağ -->
-    <feat name="Person[nom]" value="1" upos="VERB">1</feat><!-- mimbağ -->
-    <feat name="Person[nom]" value="2" upos="VERB">1</feat><!-- gimbağ -->
-    <feat name="Person[obj]" value="2" upos="VERB">1</feat><!-- Kçi -->
+    <feat name="Person[obj]" value="1" upos="VERB">1</feat><!-- mimbağ -->
+    <feat name="Person[obj]" value="2" upos="VERB">2</feat><!-- Kçi, gimbağ -->
     <feat name="Person[psor]" value="1" upos="NOUN,PRON">6</feat><!-- Nanaşkimik, Cumaşkimik, Nanamuşik, Nanaşk'imik, ma -->
     <feat name="Person[psor]" value="2" upos="NOUN,PRON,VERB">3</feat><!-- layç'isk'ani, mincğonu, t'k'va -->
     <feat name="Person[psor]" value="3" upos="ADJ,ADP,ADV,AUX,NOUN,NUM,VERB">95</feat><!-- nanamuşis, noseri, timuşi, Nanamuşik, beremuşi, nanamuşi, beremuşis, cami, şeni, berepemuşi -->
@@ -76,7 +70,7 @@
     <feat name="Polarity" value="Neg" upos="PROPN">1</feat><!-- Amedik -->
     <feat name="Polarity" value="Pos" upos="AUX,PRON,VERB">40</feat><!-- ut’axapun, golulvapun, ibgars, indrikhen, mat’axen, Bavshvma, Beres, abgarinen, aceren, ak'vaten -->
     <feat name="PronType" value="Ind" upos="VERB">1</feat><!-- bdziri -->
-    <feat name="PronType" value="Prs" upos="NOUN,PRON,PROPN">21</feat><!-- Şana, si, him, ma, Berek, nana, onu -->
+    <feat name="PronType" value="Prs" upos="NOUN,PRON,PROPN">23</feat><!-- si, Şana, him, ma, Berek, nana, onu -->
     <feat name="Reflex" value="Yes" upos="PRON">1</feat><!-- Çendi -->
     <feat name="Tense" value="Past" upos="NOUN,PRON,PROPN,VERB">188</feat><!-- dziru, bdziri, ocarapi, ucari, adziru, at'axu, mdzires, mdziru, mincğonu, oçitapu -->
     <feat name="Tense" value="Pres" upos="AUX,NOUN,PRON,VERB">75</feat><!-- ibgars, ut’axapun, golulvapun, indrikhen, it'axen, mat’axen, umbağ, čarums, ğururan, Bavshvma -->
@@ -88,7 +82,7 @@
     <feat name="Voice" value="Pass" upos="NOUN,PRON,VERB">7</feat><!-- abgarinen, ilimben, it'axu, maçalişinen, ok'icoxamanan, vilimbi, çendi -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="29">
+  <deps unique="28">
     <dep name="acl">1</dep>
     <dep name="advcl">1</dep>
     <dep name="advmod">48</dep>
@@ -110,13 +104,12 @@
     <dep name="nmod:poss">26</dep>
     <dep name="nsubj">489</dep>
     <dep name="nummod">2</dep>
-    <dep name="obj">284</dep>
-    <dep name="obl">75</dep>
+    <dep name="obj">283</dep>
+    <dep name="obl">76</dep>
     <dep name="parataxis">1</dep>
     <dep name="punct">439</dep>
     <dep name="root">576</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">12</dep>
-    <dep name="xpos">1</dep>
+    <dep name="xcomp">13</dep>
   </deps>
 </treebank>

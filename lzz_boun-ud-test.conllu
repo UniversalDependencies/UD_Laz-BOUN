@@ -66,13 +66,13 @@
 # text = ma si gimbağ
 1	ma	ma	PRON	Pronoun	Case=Erg|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	si	s	PRON	Pronoun	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
-3	gimbağ	mbağ	VERB	Noun	Mood=Ind|Number[nom]=Sing|Person[nom]=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n
+3	gimbağ	mbağ	VERB	Noun	Mood=Ind|Number[obj]=Sing|Person[obj]=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_12
 # text = si ma mimbağ
 1	si	s	PRON	Adj	Case=Erg|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 2	ma	ma	PRON	Noun	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
-3	mimbağ	mbağ	VERB	Noun	Mood=Ind|Number[nom]=Sing|Person[nom]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n
+3	mimbağ	mbağ	VERB	Noun	Mood=Ind|Number[obj]=Sing|Person[obj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_13
 # text = Ma him vumbağ.
