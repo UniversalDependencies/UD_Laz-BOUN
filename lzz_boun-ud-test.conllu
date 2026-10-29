@@ -1135,7 +1135,7 @@
 3	oncğoryari	oncğoryari	ADJ	_	_	0	root	_	_
 4	on	on	AUX	_	Case=Nom|Number=Sing|Person=3	3	cop	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	_
-6	va	va	PART	_	Case=Nom|Number=Sing|Person=3	7	advmod	_	Gloss=not
+6	va	va	PART	_	_	7	advmod	_	Gloss=not
 7	it'urs	it'urs	VERB	_	Case=Nom|Number=Sing|Person=3	3	ccomp	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n
 
