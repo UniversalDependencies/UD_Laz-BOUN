@@ -70,8 +70,8 @@
 
 # sent_id = be-thesis_12
 # text = si ma mimbağ
-1	si	s	PRON	Adj	Case=Erg|Number=2|Person=Prs	3	nsubj	_	_
-2	ma	ma	PRON	Noun	Case=Nom|Number=1|Person=Prs	3	obj	_	_
+1	si	s	PRON	Adj	Case=Erg|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	ma	ma	PRON	Noun	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
 3	mimbağ	mbağ	VERB	Noun	Mood=Ind|Number[nom]=Sing|Person[nom]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = be-thesis_13
@@ -1690,7 +1690,7 @@
 
 # sent_id = d-thesis_42
 # text = Koç'ik oğuru va gorums.
-1	Koç'ik	Koç'i	NOUN	NOUN	Animacy=Hum|Case=Erg|Number=Sg|Person=3	4	nsubj	_	_
+1	Koç'ik	Koç'i	NOUN	NOUN	Animacy=Hum|Case=Erg|Number=Sing|Person=3	4	nsubj	_	_
 2	oğuru	ğur	VERB	VERB	_	4	obj	_	_
 3	va	va	PART	PART	_	4	advmod	_	_
 4	gorums	gor	VERB	VERB	Aspect=Imp	0	root	_	SpaceAfter=No
@@ -2257,7 +2257,7 @@
 
 # sent_id = d-thesis_114
 # text = K'oçi ğuru.
-1	K'oçi	K'oçi	NOUN	_	Aspect=Nom|Number=Sing	2	nsubj	_	_
+1	K'oçi	K'oçi	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	ğuru	ğuru	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
