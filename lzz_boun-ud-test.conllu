@@ -2989,7 +2989,7 @@
 # sent_id = oz-article_29
 # text = Noğas gamaçamu şeni orağite mefiçireri lazut'i t'axuri.
 1	Noğas	Noğa	NOUN	_	Case=Dat|Number=Sing	2	obl	_	_
-2	gamaçamu	gamaçamu	VERB	_	_	7	xpos	_	_
+2	gamaçamu	gamaçamu	VERB	_	_	7	xcomp	_	_
 3	şeni	şeni	ADP	_	_	2	case	_	_
 4	orağite	oraği	ADV	_	_	7	advmod	_	_
 5	mefiçireri	mefiçireri	ADV	_	_	7	advmod	_	_
