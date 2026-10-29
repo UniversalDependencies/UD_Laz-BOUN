@@ -2189,7 +2189,7 @@
 
 # sent_id = d-thesis_103
 # text = Kçi.
-1	Kçi	ç	VERB	_	Tense=Past|Person[obj]=2|Person[subj]=1	0	root	_	SpaceAfter=No
+1	Kçi	ç	VERB	_	Person[obj]=2|Person[subj]=1|Tense=Past	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
 # sent_id = d-thesis_104
