@@ -1487,7 +1487,7 @@
 3	ham	ham	DET	DET	_	4	det	_	_
 4	nk'olate	nk'ola	NOUN	NOUN	Animacy=Inan|Case=Ins|Number=Sing|Person=3	5	obl	_	_
 5	gonts'umu	nts'um	VERB	VERB	Tense=Past	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	PUNCT	_	4	punct	_	SpacesAfter=\n
+6	.	.	PUNCT	PUNCT	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = d-thesis_16
 # text = Xordzak bere obgarinu.
@@ -2189,7 +2189,7 @@
 
 # sent_id = d-thesis_103
 # text = Kçi.
-1	Kçi	ç	VERB	_	Tense=Past|Person[subj]=1|Person[obj]=2	0	root	_	SpaceAfter=No
+1	Kçi	ç	VERB	_	Tense=Past|Person[obj]=2|Person[subj]=1	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
 # sent_id = d-thesis_104
@@ -3685,7 +3685,7 @@
 # sent_id = ozsccc-article_76
 # text = Noti k’elemite Alis parti goşinu şeni nç’arun.
 1	Noti	Noti	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	nsubj	_	_
-2	k’elemite	k’elemi	NOUN	_	Case=Loc|Number=Sing|Person=3	7	obj	_	_
+2	k’elemite	k’elemi	NOUN	_	Case=Loc|Number=Sing|Person=3	7	obl	_	_
 3	Alis	Ali	PROPN	_	Case=Nom|Number=Sing|Person=3	7	obl	_	_
 4	parti	parti	NOUN	_	Case=Nom|Number=Sing|Person=3	5	nmod	_	_
 5	goşinu	goşinu	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	obl	_	_
