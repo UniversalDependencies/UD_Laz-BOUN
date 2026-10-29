@@ -1293,7 +1293,7 @@
 # text = Tanuras ç'ik'oleta var aşk'omen.
 1	Tanuras	Tanura	NOUN	Propn	_	4	nsubj	_	_
 2	ç'ik'oleta	ç'ik'oleta	NOUN	Noun	_	4	obj	_	_
-3	var	var	AUX	Aux	_	4	aux	_	_
+3	var	var	PART	Aux	_	4	advmod	_	_
 4	aşk'omen	şk'om	VERB	Verb	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Punc	_	4	punct	_	SpacesAfter=\n
 
@@ -1324,7 +1324,7 @@
 # text = Berek çxombi şkomu.
 1	Berek	bere	NOUN	Noun	_	3	nsubj	_	_
 2	çxombi	çxombi	NOUN	Noun	_	3	obj	_	_
-3	şkomu	şkom	AUX	Ques	_	0	root	_	SpaceAfter=No
+3	şkomu	şkom	PART	Ques	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Punc	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = dnels48-article_17
@@ -3757,7 +3757,7 @@
 3	opşa	opşa	DET	_	Case=Nom|Number=Sing|Person=3	4	det	_	_
 4	cami	cami	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	nsubj	_	_
 5	it'axu	t'ax	VERB	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
-6	donu	onu	AUX	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	aux	_	SpaceAfter=No
+6	donu	on	AUX	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	aux	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_85
